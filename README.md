@@ -8,4 +8,6 @@
 ## braB
 
 ## mainEdit in braB
->>>>>>> braB
+
+## braC
+## mainEdit in braC
